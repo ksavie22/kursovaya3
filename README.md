@@ -132,10 +132,13 @@
 
 ## Сборка и запуск
 
-Для компиляции программы используется компилятор GCC. Сборка осуществляется командой gcc main.c -o function_analysis -lm. Запуск программы производится командой ./function_analysis.
+git clone https://github.com/ksavie22/kursovaya3.git
+cd kursovaya3
+gcc main.c -o kursovaya -lm
+./kursovaya
+
 
 ## Автор
 
 Гвардеев Станислав, группа БИЦ-252.
 
-Проект предназначен для учебных целей.
