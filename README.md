@@ -20,8 +20,7 @@
 # ├── kyrsov.vcxproj 
 # ├── kyrsov.vcxproj.filters 
 # ├── kursovaaopi.c
-# ├── DocumentLayout.json 
-# └── DocumentLayout.backup.json 
+
 
 ## Общий алгоритм работы программы
 
